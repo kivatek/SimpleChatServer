@@ -1,0 +1,12 @@
+# Generated files
+[Bb]in/
+[Bb]uild/
+
+# Eclipse files
+.classpath
+.project
+.metadata/
+.settings/
+
+# Gradle files
+.gradle/
